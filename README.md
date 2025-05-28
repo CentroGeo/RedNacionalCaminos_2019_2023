@@ -17,3 +17,9 @@ Una vez realizado este procedimiento para las ocho variables, se realizó la sum
 Los valores mayores indican que se ha mejorado en varias variables.
 
 Adicionalmente, se identifican rasgos que aparecen en la RNC 2023 pero que no están en la versión 2019, a estos valores se les clasifica como caminos nuevos.
+
+La capa de información geoespacial en formato hapefile contiene rasgos de la RNC 2023 y dos columnas adicionales donde se realiza la cuantificación:
+
+ - **estatus3_s**: texto que describe queindicadores mejoran o empeoran en cada segmento.
+ - **estatus3_n**: valores enteros entre -4 y 5 para la cuantificación de segmentos y el valor de 10 para caminos nuevos.
+ 
